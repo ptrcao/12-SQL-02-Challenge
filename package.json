@@ -1,0 +1,28 @@
+{
+  "name": "12-sql-employee-tracker",
+  "version": "1.0.0",
+  "description": "An Node.js app which uses inquiry.js for \"front end\" and a MySQL database, allowing the user to view and manage the departments, roles, and employees in their company.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "mysql -u root -p\"\"",
+    "setup-db": "mysql -u username -p\"\" --silent --skip-pager << EOF\nUSE database_name;\nsource /path/to/schema.sql;\nsource /path/to/seeds.sql;\nEOF"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptrcao/12-SQL-02-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptrcao/12-SQL-02-Challenge/issues"
+  },
+  "homepage": "https://github.com/ptrcao/12-SQL-02-Challenge#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.1.2"
+  }
+}
