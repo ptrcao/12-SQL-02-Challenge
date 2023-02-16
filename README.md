@@ -7,6 +7,7 @@
 
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+Please note that the demo video is provided in 2 parts:
 > Video demo URL #1: https://youtu.be/_mwBTF4df1Q
 > Video demo URL #2: https://youtu.be/y_HOktH1PxY
 
