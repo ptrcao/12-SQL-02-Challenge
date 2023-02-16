@@ -10,7 +10,7 @@
 > Video demo URL #1: https://youtu.be/_mwBTF4df1Q
 > Video demo URL #2: https://youtu.be/y_HOktH1PxY
 
-> Repository URL: https://api.github.com/repos/ptrcao/12-SQL-02-Challenge
+> Repository URL: https://github.com/ptrcao/12-SQL-02-Challenge.git
 
 ## Table of Contents
 
