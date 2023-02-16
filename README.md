@@ -9,6 +9,7 @@
 
 Please note that the demonstration video is provided in 2 parts:
 > Video demo URL #1 (Useage/UI): https://youtu.be/_mwBTF4df1Q
+
 > Video demo URL #2 (Schema definitions, seeds, classes): https://youtu.be/y_HOktH1PxY
 
 > Repository URL: https://github.com/ptrcao/12-SQL-02-Challenge.git
