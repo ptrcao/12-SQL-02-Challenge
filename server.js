@@ -25,6 +25,8 @@ const connection = mysql.createConnection(
   console.log(`Connected to the employees_db database.`)
 );
 
+console.log('Welcome to the Employee Management System!')
+
 var companyQueryInstance = new CompanyQuery(connection);
 
 
